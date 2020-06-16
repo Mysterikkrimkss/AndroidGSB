@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">PPE_4</string>
+    <string name="Email">Email</string>
+    <string name="Password">Password</string>
+    <string name="identifiez_vous">identifiez vous</string>
+    <string name="Valider">Valider</string>
+    <string name="Liste_Mission">Liste des missions</string>
+    <string name="Ajoute_frais">Ajouter une dépense</string>
+    <string name="Liste_frais">Liste des dépenses</string>
+    <string name="btDeco">Déconnexion</string>
+    <string name="txtvisiteur">visiteur</string>
+    <string name="responsable">Responsable</string>
+    <string name="Ajoute_mission">Ajouter une mission</string>
+    <string name="Suppr_user">Supprimer un utilisateur</string>
+    <string name="Ajoute_user">Ajouter un utilisateur</string>
+    <string name="Liste_des_visiteurs">Liste des visiteurs</string>
+    <string name="quelle">quelle ?</string>
+    <string name="nom">Nom</string>
+    <string name="somme_donner">Somme donner</string>
+    <string name="somme_utiliser">Somme utiliser</string>
+    <string name="saisir">Saisir</string>
+    <string name="date">Date</string>
+    <string name="qui">Qui ?</string>
+    <string name="pasinscrit">Pas Inscrit ?</string>
+    <string name="enregistement">Enregistement</string>
+
+
+</resources>

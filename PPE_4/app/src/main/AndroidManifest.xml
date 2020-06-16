@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.ppe_4">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".Register"></activity>
+        <activity android:name=".ListVisiteur" />
+        <activity android:name=".SupprUser" />
+        <activity android:name=".AjouteMissionResponsable" />
+        <activity android:name=".ListFraisVisiteur" />
+        <activity android:name=".NoteFrais" />
+        <activity android:name=".LigneFrais" />
+        <activity android:name=".ListMissionVisiteur" />
+        <activity android:name=".MenuResponsableActivity" />
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".MenuVisiteurActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
